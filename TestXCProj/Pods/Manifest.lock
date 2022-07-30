@@ -1,0 +1,16 @@
+PODS:
+  - LibMnaLog (1.0.0)
+
+DEPENDENCIES:
+  - LibMnaLog
+
+SPEC REPOS:
+  https://github.com/MnaTeam/MnaSpecs.git:
+    - LibMnaLog
+
+SPEC CHECKSUMS:
+  LibMnaLog: 71b03a44d829223b1e6912f53c5c8efee90242c3
+
+PODFILE CHECKSUM: 51e0a59f02aa5d268eb406124635e8ef42ec2610
+
+COCOAPODS: 1.11.3

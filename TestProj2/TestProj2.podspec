@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '9.0'
   s.requires_arc = true
   s.static_framework = true 
-  s.source_files  = "TestProj2/Classes/**/*"
+  s.source_files  = "TestProj2/TestProj2/Classes/**/*"
   
   s.module_name = 'TestProj2'
   
